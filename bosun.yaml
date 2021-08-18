@@ -1,0 +1,5 @@
+bosun:
+    appName: hello-bosun
+    deployment:
+        serviceName: hello
+
